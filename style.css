@@ -36,3 +36,7 @@ body {
   background-position: center;
   background-size: contain;
 }
+
+.hovered {
+  border: 2px dashed #333;
+}
